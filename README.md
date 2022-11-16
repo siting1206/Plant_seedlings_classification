@@ -1,3 +1,3 @@
 Dataset download link(Kaggle)：
 
-https://www.kaggle.com/code/phanigundubogula/pg-transfer-learning-resnet50-plant-seedlings/data
+https://www.kaggle.com/competitions/plant-seedlings-classification/data
